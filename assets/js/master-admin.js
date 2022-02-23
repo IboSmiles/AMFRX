@@ -1,0 +1,2 @@
+elem.addTag(["assets/css/style.css","//code.jquery.com/jquery-1.11.1.min.js","//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css", "//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js", "https://use.fontawesome.com/releases/v5.6.3/css/all.css", "https://use.fontawesome.com/releases/v5.6.3/css/all.css","https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css","assets/css/style.css"], "head",true);
+        
